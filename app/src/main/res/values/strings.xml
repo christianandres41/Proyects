@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HoolaMundo</string>
+    <string name="mensaje">Estaes mi primera app</string>
+    <string name="btn_ingreso">Ingresar</string>
+</resources>
